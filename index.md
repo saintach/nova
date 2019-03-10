@@ -1,6 +1,6 @@
 # Nova Saint
 
-[LinkedIn](https://www.linkedin.com/in/novasaint) | [Twitter](https://www.twitter.com/_novasaint_) | [Instagram](https://www.instagram.com/novasaint/) | [Email me](mailto:nova@softhatch.com)
+[LinkedIn](https://www.linkedin.com/in/novasaint) | [Twitter](https://www.twitter.com/_novasaint_) | [Instagram](https://www.instagram.com/novasaint/) | [Email](mailto:nova@softhatch.com)
 
 Hello, world!
 
