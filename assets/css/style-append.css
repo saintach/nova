@@ -2,10 +2,12 @@ body {
   font: 16px/1.5 "Lucida Grande", "Lucida Sans Unicode";
   color: #33333d;
   font-weight: 300;
+  background-color: #f5dfd214;
 }
 
 h1 {
   font-family: "Italiana";
+  font-size: 50px;
 }
 
 a {
@@ -15,4 +17,8 @@ a {
 a:hover, a:focus {
   color: #8f4b3f;
   font-weight: inherit;
+}
+
+img {
+  border-radius: 50%;
 }
