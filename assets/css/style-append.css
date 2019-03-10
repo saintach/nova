@@ -7,3 +7,12 @@ body {
 h1 {
   font-family: "Italiana";
 }
+
+a {
+  color: #c68a6e;
+}
+
+a:hover, a:focus {
+  color: #8f4b3f;
+  font-weight: inherit;
+}
