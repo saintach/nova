@@ -6,7 +6,7 @@ Hello, world!
 
 I am an entrepreneur, software engineer, product lover, self-taught home-cook, yogī, and globe-trotter. I love how technology had helped shaped the world we live in today. My goal is to make a difference in the world where technology is less accessible while helping entrepreneurs build their dream tech products and businesses.
 
-- '19 / Join Mintub as VP Engineering in Tallinn, Estonia; Building [Nexus211](https://www.nexus211.com)
+- '19 / Founded [Serenpathy](https://serenpathy.com) to help people find mental health providers quicker and easier; Building [Nexus211](https://www.nexus211.com) at Mintubi
 - '19 / Helping non-profit organizations build thier products; Exploring the next chapter in my life
 - '18 / Worked with array of startups through [Softhatch](https://www.softhatch.com); Built a tech team in Myanmar, made an impact in the community
 - '17 / 25, Founded [Softhatch](https://www.softhath.com); Traveled the [world](https://www.instagram.com/novasaint/)
