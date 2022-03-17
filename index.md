@@ -6,6 +6,7 @@ Hello, world!
 
 I am an entrepreneur, software engineer, product lover, traveler, self-taught home-cook, and yogī. I love how technology helps shaped the world we live in today. My goal is to make a difference in the world where technology is less accessible while helping entrepreneurs build their dream tech products and businesses.
 
+- '22 / At Palmetto as Sr. Software Engineer, contributing to clean tech to combat climate change one line of code at a time
 - '21 / Software engineering at [211 LA](https://211la.org) to link people to community services in LA County
 - '19 / Built [Nexus211](https://www.nexus211.com) at Mintubi; Spent half of my time in Estonia working with our remote team
 - '19 / Helping non-profit organizations build thier products; Exploring the next chapter in my life
